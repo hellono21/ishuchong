@@ -3,3 +3,17 @@ dist
 .tmp
 .sass-cache
 webapp/lib
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
